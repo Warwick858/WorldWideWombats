@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_12_JRL.BusinessRules" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIAQAAAABQqYQAWPKIZSBEAEBAIAAASOAfgABoAQA=</HashCode>
+      <FileName>BusinessRules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Contract" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAACAAIIAAAAAAAAAAAA=</HashCode>
+      <FileName>Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Course" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAQAAAIEAAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Employee" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAECEQkBAAAAEAAoAAAAIMSECAAAIAAAIAEAEgAkCw=</HashCode>
+      <FileName>Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FileIO" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsAAAAAgAAAAAAAAAAAAAAAAABAAABAQAAAAAAQAAA=</HashCode>
+      <FileName>FileIO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_12_JRL.FrmAdd_Emp" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AjA5MCAgJCZqhSGkBAaCIAoKgQkMEYQMBqYiUQiM6NA=</HashCode>
+      <FileName>FrmAdd_Emp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FrmAdmin" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAEAAADCJgJBBCBCCRAJgCoSAEKAAAQIQoEAggIXA=</HashCode>
+      <FileName>FrmAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FrmEmp_Benefits" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkCTowsUl7JDiBGQoAWQlFQHLEfhOcyDjOwgAz4iCdI=</HashCode>
+      <FileName>FrmEmp_Benefits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FrmEmp_General" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AtA5gYAgrmZeIRFAFKKSIIQ6IUkGYYAEBIQmUQqhEMA=</HashCode>
+      <FileName>FrmEmp_General.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FrmEmp_Login" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAFIAAACIAAABABACBAIBCYAAGIAAEIIQgEGgQQVA=</HashCode>
+      <FileName>FrmEmp_Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.FrmMain" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JEAAAAAABmBAAAEAAACCAACCCEEIAISAACAJAgEMAAE=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Hourly" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAEgAAAAAAAAAABAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hourly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.ListViewSort" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ListViewSort.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_12_JRL.Program" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Salary" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Sales" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAIAAEgAAAAAAAAAAAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Validator" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAKAAACAAAAAAAAAAAUAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAgAAABEAAAAQEAEAAAAAEEAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_12_JRL.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab_12_JRL.IFileAccess" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAA=</HashCode>
+      <FileName>IFileAccess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab_12_JRL.EType" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAQAAAAAAAAAAAAAIACAAAAAAAAA=</HashCode>
+      <FileName>EType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

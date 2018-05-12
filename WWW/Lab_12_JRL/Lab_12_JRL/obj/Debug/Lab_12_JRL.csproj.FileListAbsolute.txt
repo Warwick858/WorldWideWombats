@@ -1,0 +1,43 @@
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe.config
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.pdb
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdd_Emp.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdmin.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Benefits.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_General.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Login.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmMain.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.Properties.Resources.resources
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csproj.GenerateResource.Cache
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.exe
+C:\Users\Jimmy\Documents\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.pdb
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe.config
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.exe
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.pdb
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.pdb
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csprojResolveAssemblyReference.cache
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdd_Emp.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdmin.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Benefits.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_General.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Login.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmMain.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.Properties.Resources.resources
+D:\Documents\Courses\Fall 2016\CS3260\Labs\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csproj.GenerateResource.Cache
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe.config
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.exe
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\bin\Debug\Lab_12_JRL.pdb
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csprojResolveAssemblyReference.cache
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdd_Emp.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmAdmin.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Benefits.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_General.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmEmp_Login.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.FrmMain.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.Properties.Resources.resources
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csproj.GenerateResource.Cache
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.csproj.CoreCompileInputs.cache
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.exe
+D:\Documents\Code\CS 3260\Lab_12_JRL_V1.0\Lab_12_JRL\Lab_12_JRL\obj\Debug\Lab_12_JRL.pdb
